@@ -13,7 +13,7 @@ java Main
 
 ## Commands
 ### Setup
-Setup [Show Number] [Number of Rows] [Number of seats per row] [Cancellation window in minutes]
+Setup [Show Number] [Number of Rows] [Number of seats per row] [Cancellation window in seconds]
 ```
 Setup 1 3 3 10
 ```
