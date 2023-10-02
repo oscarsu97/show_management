@@ -45,6 +45,7 @@ Cancel [Ticket#][Phone#]
 ```
 Cancel 2 234
 ```
+![image](https://github.com/oscarsu97/show_management/assets/50538208/1a699118-1a47-4463-be58-37180f436e59)
 
 ## Cancellation Window
 If it is passed the cancellation window set during the `setup` command, ticket cannot be canceled and will be shown as such:
